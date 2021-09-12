@@ -1,6 +1,6 @@
 Feature: Searching Amazon
 
-Background:
+Background: 
 Given I am on the amazon uk website
 
 Scenario: Search for best gaming laptop by average customer rating
