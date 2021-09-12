@@ -11,3 +11,4 @@ end
 Then(/^the best rated choice will be displayed on top$/) do
   display_top_search_result
 end
+
